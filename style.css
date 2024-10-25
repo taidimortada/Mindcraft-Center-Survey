@@ -33,7 +33,7 @@ body::before {
   z-index: -1;
   background: var(--color-darkblue);
 
-  background-image:   url(Screenshot\ 2024-10-18\ 203703.png);
+  background-image:   url(image survey.png);
   background-size: cover;
   background-repeat: no-repeat;
   background-position: center;
